@@ -31,7 +31,7 @@ Ensure you have the following installed on your machine:
 ### Setup Instructions
 1. **Clone the repository:**
    ```sh
-   git clone https://github.com/your-repo/non-deterministic-game.git
+   git clone https://github.com/itsahmadzia/plinko.git
    cd non-deterministic-game
    ```
 
@@ -60,7 +60,7 @@ Ensure you have the following installed on your machine:
      ```
 
 4. **Check the connection settings:**
-   Ensure that the front end is configured to communicate with the backend. If your backend server is hosting on a different port number, update the connection settings in the front end configuration file (e.g., `vite.config.js` or an environment variable).
+   Ensure that the front end is configured to communicate with the backend. If your backend server is hosting on a different port number, update the connection settings in the front end configuration file 
 
 ## Game Mechanics
 - **Ball Addition**: When a ball is added, a server call is made to retrieve the multiplier and starting position.
